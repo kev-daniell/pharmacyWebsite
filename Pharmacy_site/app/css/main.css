@@ -47,8 +47,13 @@
     margin-top: 3em;
 }
 
+.parking{
+    margin-top: 1.5em;
+    font-size: 1.1em;
+}
+
 .map{
-    margin-top: 3em;
+    margin-top: 1em;
 }
 
 footer{
