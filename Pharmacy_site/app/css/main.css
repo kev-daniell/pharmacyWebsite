@@ -43,6 +43,14 @@
     background-color: rgb(221, 26, 26);
 }
 
+.vacbut{
+    margin-top: 1em;
+}
+
+.testbut{
+    margin-bottom: 1em;
+}
+
 .welcome{
     margin-top: 3em;
 }
