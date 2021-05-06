@@ -39,12 +39,11 @@
     font-size: xx-large;
 }
 
-.slider{
-    background-color: rgb(221, 26, 26);
-}
 
-.vacbut{
-    margin-top: 1em;
+.slider{
+    padding: 0em;
+    margin: 0;
+    background-color: rgb(221, 26, 26);
 }
 
 .testbut{
