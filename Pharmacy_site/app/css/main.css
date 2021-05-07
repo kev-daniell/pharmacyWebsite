@@ -39,7 +39,9 @@
     font-size: xx-large;
 }
 
-
+.slideshow{
+    margin-top: 1em;
+}
 .slider{
     padding: 0em;
     margin: 0;
@@ -103,7 +105,7 @@ footer{
 }
 
 .socials li{
-    margin: 0 10px;
+    padding: 10px;
 }
 
 .socials a{
